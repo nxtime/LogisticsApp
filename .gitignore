@@ -1,0 +1,12 @@
+
+# Ignore node modules
+packages/logistics-server/node-modules
+packages/logistics-app/node-modules
+
+# Ignore build files
+packages/logistics-server/build
+packages/logistics-app/build
+
+# Ignore .env files
+packages/logistics-server/.env
+packages/logistics-app/.env
