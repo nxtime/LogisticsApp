@@ -1,7 +1,7 @@
 
 # Ignore node modules
-packages/logistics-server/node-modules
-packages/logistics-app/node-modules
+packages/logistics-server/node_modules
+packages/logistics-app/node_modules
 
 # Ignore build files
 packages/logistics-server/build
