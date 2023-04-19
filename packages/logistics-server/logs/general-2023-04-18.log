@@ -1,0 +1,6 @@
+[2023-04-18 00:38:35] [core-api] [service-undefined] error: Invalid password - (Error) [file:  LoginUseCase.execute (/home/marco/PROJECTS/Private/WorkoutApp/packages/workout-server/src/useCases/login/login.usecase.ts:17:35)]
+[2023-04-18 00:39:47] [core-api] [service-undefined] error: Invalid password - (Error) [file:  LoginUseCase.execute (/home/marco/PROJECTS/Private/WorkoutApp/packages/workout-server/src/useCases/login/login.usecase.ts:17:35)]
+[2023-04-18 00:40:03] [core-api] [service-undefined] error: Invalid password - (Error) [file:  LoginUseCase.execute (/home/marco/PROJECTS/Private/WorkoutApp/packages/workout-server/src/useCases/login/login.usecase.ts:17:35)]
+[2023-04-18 00:41:34] [core-api] [service-undefined] error: Invalid password - (Error) [file:  LoginUseCase.execute (/home/marco/PROJECTS/Private/WorkoutApp/packages/workout-server/src/useCases/login/login.usecase.ts:17:35)]
+[2023-04-18 00:41:52] [core-api] [service-undefined] error: Invalid password - (Error) [file:  LoginUseCase.execute (/home/marco/PROJECTS/Private/WorkoutApp/packages/workout-server/src/useCases/login/login.usecase.ts:17:35)]
+[2023-04-18 01:16:30] [core-api] [service-undefined] error: User not found - (Error) [file:  LoginUseCase.execute (/home/marco/PROJECTS/Private/WorkoutApp/packages/workout-server/src/useCases/login/login.usecase.ts:13:24)]

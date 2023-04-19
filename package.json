@@ -1,0 +1,11 @@
+{
+  "name": "logisticsapp",
+  "description": "",
+  "scripts": {
+    "dev:front": "cd packages/logistics-app && yarn dev",
+    "dev:back": "cd packages/logistics-server && yarn dev",
+    "dev": "yarn dev:front & yarn dev:back"
+  },
+  "author": "Marcos Paulo",
+  "license": "ISC"
+}
